@@ -1,0 +1,32 @@
+body {
+    background: salmon;
+    
+    text-align: center;
+
+}
+.cars {
+margin-right: auto;
+    margin-left: auto;
+}
+.games {
+margin-left: 550px;
+
+text-align: left;
+      }
+      
+#inosuke {
+        display: none;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 300px;
+        max-height: 300px;
+    }
+p {
+        margin-left: 100px;
+        margin-right: 100px;
+        font-size: larger;
+    }
+    #btnID {
+        background-color: orange;
+    }
+    
